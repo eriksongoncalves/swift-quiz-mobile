@@ -24,7 +24,7 @@ npm install -g json-server
 Install the dependencies and devDependencies.
 
 ```sh
-$ cd GoRestaurant-mobile
+$ cd swift-quiz-mobile
 $ npm install or yarn install
 ```
 
